@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\glebl\\source\\repos\\MyApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11601C66-4338-4877-BEDD-9DB7D0EDB688}|MyApi\\MyApi.csproj|c:\\users\\glebl\\source\\repos\\myapi\\myapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11601C66-4338-4877-BEDD-9DB7D0EDB688}|MyApi\\MyApi.csproj|solutionrelative:myapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{11601C66-4338-4877-BEDD-9DB7D0EDB688}|MyApi\\MyApi.csproj|c:\\users\\glebl\\source\\repos\\myapi\\myapi\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11601C66-4338-4877-BEDD-9DB7D0EDB688}|MyApi\\MyApi.csproj|solutionrelative:myapi\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11601C66-4338-4877-BEDD-9DB7D0EDB688}|MyApi\\MyApi.csproj|c:\\users\\glebl\\source\\repos\\myapi\\myapi\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11601C66-4338-4877-BEDD-9DB7D0EDB688}|MyApi\\MyApi.csproj|solutionrelative:myapi\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11601C66-4338-4877-BEDD-9DB7D0EDB688}|MyApi\\MyApi.csproj|c:\\users\\glebl\\source\\repos\\myapi\\myapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{11601C66-4338-4877-BEDD-9DB7D0EDB688}|MyApi\\MyApi.csproj|solutionrelative:myapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{11601C66-4338-4877-BEDD-9DB7D0EDB688}|MyApi\\MyApi.csproj|c:\\users\\glebl\\source\\repos\\myapi\\myapi\\filerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11601C66-4338-4877-BEDD-9DB7D0EDB688}|MyApi\\MyApi.csproj|solutionrelative:myapi\\filerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11601C66-4338-4877-BEDD-9DB7D0EDB688}|MyApi\\MyApi.csproj|c:\\users\\glebl\\source\\repos\\myapi\\myapi\\myapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{11601C66-4338-4877-BEDD-9DB7D0EDB688}|MyApi\\MyApi.csproj|solutionrelative:myapi\\myapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11601C66-4338-4877-BEDD-9DB7D0EDB688}|MyApi\\MyApi.csproj|c:\\users\\glebl\\source\\repos\\myapi\\myapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11601C66-4338-4877-BEDD-9DB7D0EDB688}|MyApi\\MyApi.csproj|solutionrelative:myapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{11601C66-4338-4877-BEDD-9DB7D0EDB688}|MyApi\\MyApi.csproj|c:\\users\\glebl\\source\\repos\\myapi\\myapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{11601C66-4338-4877-BEDD-9DB7D0EDB688}|MyApi\\MyApi.csproj|solutionrelative:myapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11601C66-4338-4877-BEDD-9DB7D0EDB688}|MyApi\\MyApi.csproj|c:\\users\\glebl\\source\\repos\\myapi\\myapi\\filerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11601C66-4338-4877-BEDD-9DB7D0EDB688}|MyApi\\MyApi.csproj|solutionrelative:myapi\\filerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11601C66-4338-4877-BEDD-9DB7D0EDB688}|MyApi\\MyApi.csproj|c:\\users\\glebl\\source\\repos\\myapi\\myapi\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11601C66-4338-4877-BEDD-9DB7D0EDB688}|MyApi\\MyApi.csproj|solutionrelative:myapi\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11601C66-4338-4877-BEDD-9DB7D0EDB688}|MyApi\\MyApi.csproj|c:\\users\\glebl\\source\\repos\\myapi\\myapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -41,6 +45,19 @@
           "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyApi.http",
+              "DocumentMoniker": "C:\\Users\\glebl\\source\\repos\\MyApi\\MyApi\\MyApi.http",
+              "RelativeDocumentMoniker": "MyApi\\MyApi.http",
+              "ToolTip": "C:\\Users\\glebl\\source\\repos\\MyApi\\MyApi\\MyApi.http",
+              "RelativeToolTip": "MyApi\\MyApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-09T07:00:11.237Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
@@ -54,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\glebl\\source\\repos\\MyApi\\MyApi\\AppDbContext.cs",
               "RelativeDocumentMoniker": "MyApi\\AppDbContext.cs",
@@ -62,12 +79,11 @@
               "RelativeToolTip": "MyApi\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T12:09:02.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-08T12:09:02.717Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "FileRecord.cs",
               "DocumentMoniker": "C:\\Users\\glebl\\source\\repos\\MyApi\\MyApi\\FileRecord.cs",
               "RelativeDocumentMoniker": "MyApi\\FileRecord.cs",
@@ -80,63 +96,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "FilesController.cs",
               "DocumentMoniker": "C:\\Users\\glebl\\source\\repos\\MyApi\\MyApi\\Controllers\\FilesController.cs",
               "RelativeDocumentMoniker": "MyApi\\Controllers\\FilesController.cs",
               "ToolTip": "C:\\Users\\glebl\\source\\repos\\MyApi\\MyApi\\Controllers\\FilesController.cs",
               "RelativeToolTip": "MyApi\\Controllers\\FilesController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBoAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T12:05:21.372Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\glebl\\source\\repos\\MyApi\\MyApi\\Program.cs",
               "RelativeDocumentMoniker": "MyApi\\Program.cs",
               "ToolTip": "C:\\Users\\glebl\\source\\repos\\MyApi\\MyApi\\Program.cs",
               "RelativeToolTip": "MyApi\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T11:47:54.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\glebl\\source\\repos\\MyApi\\MyApi\\Dockerfile",
               "RelativeDocumentMoniker": "MyApi\\Dockerfile",
               "ToolTip": "C:\\Users\\glebl\\source\\repos\\MyApi\\MyApi\\Dockerfile",
               "RelativeToolTip": "MyApi\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-09-08T11:47:30.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\glebl\\source\\repos\\MyApi\\MyApi\\appsettings.json",
               "RelativeDocumentMoniker": "MyApi\\appsettings.json",
               "ToolTip": "C:\\Users\\glebl\\source\\repos\\MyApi\\MyApi\\appsettings.json",
               "RelativeToolTip": "MyApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-09-08T11:57:21.727Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\glebl\\source\\repos\\MyApi\\MyApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "MyApi\\Properties\\launchSettings.json",
@@ -144,8 +156,11 @@
               "RelativeToolTip": "MyApi\\Properties\\launchSettings.json",
               "ViewState": "AgIAABkAAAAAAAAAAABhwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-08T11:33:03.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-08T11:33:03.611Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

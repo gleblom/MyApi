@@ -19,7 +19,7 @@ public class FilesController : ControllerBase
         _minio = new MinioClient()
             .WithEndpoint(config["MinIO:Endpoint"])
             .WithCredentials(config["MinIO:AccessKey"], config["MinIO:SecretKey"])
-            .WithSSL()
+            .WithSSL(false)
             .Build();
     }
 
